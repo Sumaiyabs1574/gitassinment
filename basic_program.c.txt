@@ -2,9 +2,7 @@
 
 int factorial(int n) {
     if (n == 0)
-        return 1;
-    elseji
-        return n * factorial(n - 1);
+        return 1;dredfn - 1);
 }  b
 
 int main() {
